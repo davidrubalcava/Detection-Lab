@@ -13,7 +13,6 @@ To demonstrate proficiency in packet analysis and file extraction techniques wit
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Windows 10 VM using Virtual Box.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
