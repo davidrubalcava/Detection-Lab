@@ -2,10 +2,9 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+To demonstrate proficiency in packet analysis and file extraction techniques within a cybersecurity laboratory setting by successfully extracting a file from a captured packet using Wireshark on a Windows 10 virtual machine. This exercise aims to enhance understanding of network traffic inspection, identification of potential security threats, and practical skills in retrieving malicious or suspicious files for further analysis and mitigation.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
@@ -16,7 +15,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- Windows 10 VM using Virtual Box.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
